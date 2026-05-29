@@ -1,5 +1,5 @@
-# ☕ Coffee Shop Sales Dashboard Project
- This project analyzes coffee shop sales data to uncover key business insights, track performance metrics, and support data-driven decision-making across products stores, and customer behavior
+# ☕ Coffee Shop Sales Analysis Project
+This project analyzes coffee shop sales data to uncover key business insights, track performance metrics, and support data-driven decision-making across products, stores, and customer behavior.
 ---
 
 ## 📌 Table of Contents
@@ -31,7 +31,7 @@
 
 This project showcases an **interactive Power BI dashboard** built to analyze and monitor coffee shop sales performance using transactional data.
 
-The dashboard transforms raw data into actionable insights, supporting data-driven decisions across sales, product strategy, and store performance.
+The project transforms raw data into actionable insights, supporting data-driven decisions across sales, product strategy, and store performance.
 
 It provides clear visibility into:
 - Key business metrics  
@@ -48,10 +48,10 @@ Designed with a **premium brown and beige coffee-inspired theme**, the report de
 
 Coffee shop businesses generate large volumes of transactional data across multiple stores, products, and customer orders. Without a centralized reporting system, tracking business performance and identifying growth opportunities becomes challenging.
 
-This Power BI dashboard was developed to:
-- Transform raw sales data into actionable insights  
-- Support data-driven decision-making  
-- Improve business visibility and reporting efficiency  
+This project focused on :
+- Transforming raw sales data into actionable insights  
+- Supporting data-driven decision-making  
+- Improving business visibility and reporting efficiency  
 
 ---
 
@@ -159,7 +159,7 @@ A donut chart compares sales contribution between weekdays and weekends to under
 - Improves inventory planning  
 - Supports promotional strategy  
 
-Users can interact with the chart to dynamically filter and analyze dashboard performance for weekdays or weekends.
+Users can interact with the chart to dynamically filter and analyze dashboard performance for weekdays and weekends.
 ---
 
 # 🏪 Store Location Performance
@@ -174,7 +174,7 @@ This analysis supports branch-level performance monitoring, regional strategy pl
 - Hell’s Kitchen is the top-performing store  
 - All stores show positive MoM growth  
 
-Users can interact with the store location bars to dynamically analyze the performance of each store across the dashboard.
+Users can interact with the store location bar chart to dynamically analyze and compare performance across different stores throughout the dashboard.
 ---
 
 # ☕ Product Category Analysis

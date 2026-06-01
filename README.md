@@ -23,7 +23,7 @@ This project analyzes coffee shop sales data to uncover key business insights, t
 - [💼 Business Impact](#-business-impact)
 - [📊 Dashboard Preview](#-dashboard-preview)
 - [🚀 How to Run This Project](#-how-to-run-this-project)
-- [👩‍💻 Author](#-author)
+
 
 
 ---

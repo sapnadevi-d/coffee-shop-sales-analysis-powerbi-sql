@@ -22,7 +22,7 @@ This project analyzes coffee shop sales data to uncover key business insights, t
 - [🚀 Recommendations](#-recommendations)
 - [💼 Business Impact](#-business-impact)
 - [📊 Dashboard Preview](#-dashboard-preview)
-- [▶️ How to Run This Project](#-how-to-run-this-project)
+- [🚀 How to Run This Project](#-how-to-run-this-project)
 - [👩‍💻 Author](#-author)
 
 
@@ -257,7 +257,7 @@ Sales were lower during the first week of the month, then stabilized for the rem
 
 ---
 
-## ▶️ How to Run This Project
+## 🚀 How to Run This Project
 
 1. Download project files from GitHub  
 2. Open the `.pbix` file in Power BI Desktop  

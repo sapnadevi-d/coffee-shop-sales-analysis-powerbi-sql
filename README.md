@@ -249,7 +249,7 @@ Sales were lower during the first week of the month, then stabilized for the rem
 - Increased revenue insights and visibility  
 
 --- 
-# Dashboard Preview
+# 📊 Dashboard Preview
 ![alt text](images/coffee_shop_sales_analysis_dashboard.png)
 
 
